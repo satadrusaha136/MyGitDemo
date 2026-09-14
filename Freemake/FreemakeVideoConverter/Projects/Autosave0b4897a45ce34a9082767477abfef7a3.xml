@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorkingProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Track xsi:type="URLTrackProject" URL="https://www.youtube.com/watch?v=adRvJ88fbuQ" />
+  <Options>
+    <URLOptions HideAdultVideo="false" HideAdultThumbs="false" />
+    <AcsellerationOptions AvtoAcceleration="true" CudaAcceleration="false" DXVAAcceleration="false" />
+    <ProxyOptions UseProxy="false" HTTPProxy="127.0.0.1" Port="80" AuthorizationRequired="false" Login="" Password="" />
+    <Languages>en-US</Languages>
+    <Join>false</Join>
+  </Options>
+  <LastConvertGroupName>MP4</LastConvertGroupName>
+  <PresetIndex>1</PresetIndex>
+  <ConvertFolder>C:\Users\Home\Videos</ConvertFolder>
+  <DVDMenuTemplateIndex>0</DVDMenuTemplateIndex>
+  <BDMenuIndex>0</BDMenuIndex>
+</WorkingProject>
