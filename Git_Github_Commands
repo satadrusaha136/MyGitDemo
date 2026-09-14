@@ -11,3 +11,8 @@
   git status
   git add Git_Github_commands
   git add .
+  git commit -m "Commit Message: Committed on 14th September 2026"
+  git push --set-upstream origin master
+  git push
+
+  git checkout -b "day1Branch"
