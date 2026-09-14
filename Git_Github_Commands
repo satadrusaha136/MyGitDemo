@@ -1,0 +1,13 @@
+ git config --global user.name "satadrusaha136"
+  git config --global user.email "satadrusaha136@gmail.com"
+  git config --global color.ui auto
+
+  Mandatory Commands
+
+  git init
+  git remote add origin https://github.com/satadrusaha136/MyGitDemo.git
+
+  git pull origin main
+  git status
+  git add Git_Github_commands
+  git add .
